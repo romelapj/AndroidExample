@@ -1,5 +1,6 @@
 # AndroidExample
 Código fundamentos en Android
+
 1.  Hola Mundo
 
 2.  Interaccion con el boton
@@ -29,22 +30,25 @@ Código fundamentos en Android
  
 
 Código intermedio en Android
-1.       Lollipop versiones anteriores
 
-2.       Base de datos SQLite
+1.  Lollipop versiones anteriores
 
-3.       Content Provider
+2.  Base de datos SQLite
 
-4.       Notificaciones
+3.  Content Provider
 
-5.       Acceso a servicios web
+4.  Notificaciones
 
-6.       Tareas en segundo plano
+5.  Acceso a servicios web
 
-7.       Mapas en Android
+6.  Tareas en segundo plano
 
-8.       Notificaciones Push
+7.  Mapas en Android
 
-9.       Integracion Redes Sociales
+8.  Notificaciones Push
+
+9.  Integracion Redes Sociales
+  
+
 
 Código avanzado en Android
